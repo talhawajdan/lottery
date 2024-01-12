@@ -19,7 +19,7 @@ function DashboardSection() {
           gap={2}
           width={"100%"}
         >
-          <CardMain type="cosmic" />@
+          <CardMain type="cosmic" />
           <CardMain type="classic" />
           <CardMain type="atomic" />
         </Box>
